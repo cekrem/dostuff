@@ -11,12 +11,12 @@ or
 $ yarn global add domorestuff
 ```
 
-You can also simply `npx dms` (or `npx domorestuff`) if you prefer.
+You can also simply `npx domorestuff`.
 
 ## CLI
 
 ```
 # the arguments are optional, you can also do stuff _after_ starting domorestuff
-$ dms "echo this is my first command" "echo this is my second command"
+$ domorestuff "echo this is my first command" "echo this is my second command"
 ```
 
